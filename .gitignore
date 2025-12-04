@@ -6,6 +6,9 @@
 /.next/
 /out/
 
+#pnpm.store
+.pnpm-store/**/*
+
 # production
 /build
 
